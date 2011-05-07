@@ -1,0 +1,3 @@
+This is a specfile to build Ruby 1.9 rpms for centos 5 (should work on any rhel 5 system)
+
+It *should* work, but I make no guarantees :)
